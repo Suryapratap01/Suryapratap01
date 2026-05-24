@@ -1,8 +1,8 @@
 # Hi, I'm Suryapratap Singh Umath 👋
 
-🎓 CS Student at LNCTS, Bengaluru | 📍 Bengaluru, India
+🎓 CDAC [DBDA] @Bengaluru | 📍 Bengaluru, India
 
-💻 **Data Engineer** & **Frontend Developer** passionate about building data pipelines, AI applications, and clean web interfaces.
+💻 **Data Engineer** & **FullStack Developer** passionate about building data pipelines, AI applications, and clean web interfaces.
 
 ---
 
