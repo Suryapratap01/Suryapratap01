@@ -1,15 +1,15 @@
 ![logo](https://github.com/anshlamba03/anshlamba03/blob/main/coveransh.png)
-<h1 align="center">Hi 👋, I'm Ansh Lamba</h1>
-<h4 align="center">I am a passionate Data Engineer with over 3 years of experience turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I’m also a Databricks Certified Spark Developer and a Microsoft Certified Azure Data Engineer. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
+<h1 align="center">Hi 👋, I'm Suryapratap</h1>
+<h4 align="center">I am a passionate Data Engineer, turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I’m also a Databricks Certified Spark Developer and a Microsoft Certified Azure Data Engineer. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 
 - 🔭 I’m a **Data Engineer**
 
-- 🎥 Youtube **https://www.youtube.com/@AnshLambaJSR**
 
-- 💬 LinkedIn **https://www.linkedin.com/in/ansh-lamba-793681184/**
+
+- 💬 LinkedIn **https://www.linkedin.com/in/suryapratap-singh-umath-6739551bb/**
 
 
 
@@ -28,7 +28,7 @@
 
 
 <!-- # Hi, I'm Suryapratap Singh Umath 👋
-
+- 🎥 Youtube **https://www.youtube.com/@AnshLambaJSR**
 🎓 CDAC [DBDA] @Bengaluru | 📍 Bengaluru, India
 
 💻 **Data Engineer** & **FullStack Developer** passionate about building data pipelines, AI applications, and clean web interfaces.
